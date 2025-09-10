@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ## 🌟 About Me
-I'm a tech veteran with 16+ years of experience. I specialize in crafting high availability systems for peak performance, quality, and security. 💻
+I'm a tech veteran with many years of experience (started 2009ish). I specialize in crafting high availability systems for peak performance, quality, and security. 💻
 
 ## 💼 Expertise
 - Design, Implementation, Maintenance: I make systems sing!
-- Leadership, Project Management: 8 years of leading teams to success. 🌟
+- Leadership, Project Management: 12 years of leading teams to success. 🌟
 - Development: I thrive on web systems and architecture. 😎
   
 ## 🌐 Global Collaborator
