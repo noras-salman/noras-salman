@@ -25,6 +25,7 @@ I am a seasoned tech leader specializing in crafting **high-availability backend
 | :--- | :--- |
 | **Preferred Stack** | **JavaScript, TypeScript** |
 | **Core & Backend** | Distributed Systems, System Design, Microservices, Node.js, Go, Python |
+| **Cybersecurity & Net** | Network Security, Cryptography, Vulnerability Assessment, Exploit Mitigation |
 | **Messaging & Async** | RabbitMQ, Event-Driven Architecture, Pub/Sub Pipelines, High-Throughput Queues |
 | **Domains & Verticals** | FinTech Pipelines, Supply Chain Logistics, B2B Enterprise SaaS, Automated Risk Engines |
 | **Cloud & Infrastructure** | AWS, Docker, Scalable Cloud Architectures, CI/CD Automated Pipelines |
@@ -41,7 +42,7 @@ I am a seasoned tech leader specializing in crafting **high-availability backend
 
 ### 🏆 Activities & Core Interests
 
-- **Capture The Flag (CTF):** Active alumnus/supporter of **ChalmersCTF**, diving deep into cybersecurity challenges, reverse engineering, and network exploit mitigations.
+- **Capture The Flag (CTF):** Active alumnus/supporter of **[ChalmersCTF](https://chalmersctf.se)** 🛡️ — diving deep into cybersecurity challenges, reverse engineering, and network security patterns.
 
 ---
 
@@ -58,3 +59,4 @@ I am a seasoned tech leader specializing in crafting **high-availability backend
 
 - 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 - 🐙 **GitHub Profile:** [@noras-salman](https://github.com)
+
