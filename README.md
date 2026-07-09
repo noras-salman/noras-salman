@@ -1,26 +1,52 @@
-### Hi there 👋
+# Hi there, I'm Noras! 👋 🚀
 
-## 🌟 About Me
-I'm a tech veteran with many years of experience (started 2009ish). I specialize in crafting high availability systems for peak performance, quality, and security. 💻
+`Principal Software Engineer` | `Tech Director` | `Distributed Systems Architect`
 
-## 💼 Expertise
-- Design, Implementation, Maintenance: I make systems sing!
-- Leadership, Project Management: 12 years of leading teams to success. 🌟
-- Development: I thrive on web systems and architecture. 😎
-  
-## 🌐 Global Collaborator
-I've worked with diverse minds worldwide, conquering challenges together. Let's connect and create magic! 🌍
-<!--
-**noras-salman/noras-salman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a veteran tech leader specializing in crafting **high-availability backend systems** optimized for peak performance, multi-tier data security, and long-term scalability. Since 2017, I have bridged the gap between deep technical engineering and cross-functional team leadership to scale high-impact digital products.
 
-Here are some ideas to get you started:
+> *"I make systems sing!"* 🎧⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Professional Blueprint
+
+- 💻 **Core Focus:** Architecting robust, fault-tolerant enterprise systems and event-driven microservices.
+- 📈 **Track Record:** Successfully scaled technical infrastructure through multi-million dollar venture rounds and hyper-growth phases since 2017.
+- 💼 **Leadership:** Engineering management, project planning, mentoring talent, and modernizing enterprise-grade codebases.
+- 🎓 **Education:** M.Sc. in Industrial Economics & Management from **Blekinge Institute of Technology (BTH)**, Sweden.
+
+---
+
+### 🧰 Tech Stack & Architectural Expertise
+
+| Layer | Technologies & Frameworks |
+| :--- | :--- |
+| **Preferred Stack** | **JavaScript, TypeScript** |
+| **Core & Backend** | Distributed Systems, System Design, Microservices, Node.js, Go, Python |
+| **Messaging & Async** | RabbitMQ, Event-Driven Architecture, Pub/Sub Pipelines, High-Throughput Queues |
+| **Domains & Verticals** | FinTech Pipelines, Supply Chain Logistics, B2B Enterprise SaaS, Automated Risk Engines |
+| **Cloud & Infrastructure** | AWS, Docker, Scalable Cloud Architectures, CI/CD Automated Pipelines |
+
+---
+
+### 🚀 Engineering Philosophy & Impact
+
+- **Resilience First:** I design high-availability backend infrastructures capable of handling heavy transactional volume without breaking a sweat.
+- **Data-Driven Leadership:** I combine engineering principles with industrial management frameworks to optimize developer velocity and product delivery.
+- **Security-Minded:** Deeply focused on infrastructure protection, encryption, and secure system patterns across all layers of the stack.
+
+---
+
+### 📊 GitHub Metrics & Insights
+
+<p align="left">
+  <img src="https://vercel.app" alt="Noras's GitHub Stats" height="180px"/>
+  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- 🐙 **GitHub Profile:** [@noras-salman](https://github.com)
