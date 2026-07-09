@@ -2,7 +2,7 @@
 
 `Principal Software Engineer` | `Tech Director` | `Distributed Systems Architect`
 
-I am a veteran tech leader specializing in crafting **high-availability backend systems** optimized for peak performance, multi-tier data security, and long-term scalability. Since 2017, I have bridged the gap between deep technical engineering and cross-functional team leadership to scale high-impact digital products.
+I am a seasoned tech leader specializing in crafting **high-availability backend systems** optimized for peak performance, multi-tier data security, and long-term scalability. Working in the industry since 2012, I bridge the gap between deep technical engineering and cross-functional team leadership to scale high-impact digital products.
 
 > *"I make systems sing!"* 🎧⚡
 
@@ -11,9 +11,11 @@ I am a veteran tech leader specializing in crafting **high-availability backend 
 ### ⚡ Professional Blueprint
 
 - 💻 **Core Focus:** Architecting robust, fault-tolerant enterprise systems and event-driven microservices.
-- 📈 **Track Record:** Successfully scaled technical infrastructure through multi-million dollar venture rounds and hyper-growth phases since 2017.
-- 💼 **Leadership:** Engineering management, project planning, mentoring talent, and modernizing enterprise-grade codebases.
-- 🎓 **Education:** M.Sc. in Industrial Economics & Management from **Blekinge Institute of Technology (BTH)**, Sweden.
+- 📈 **Track Record:** Designing and scaling technical infrastructure through multi-million dollar venture rounds and hyper-growth phases.
+- 💼 **Leadership:** Engineering management, project planning, mentoring talent, and modernizing enterprise-grade codebases since 2012.
+- 🎓 **Education:** 
+  - M.Sc. in Computer Systems and Networks | **Chalmers University of Technology** (Distributed Systems & Security Tracks)
+  - M.Sc. in Industrial Economics & Management | **Blekinge Institute of Technology (BTH)**
 
 ---
 
@@ -29,11 +31,17 @@ I am a veteran tech leader specializing in crafting **high-availability backend 
 
 ---
 
-### 🚀 Engineering Philosophy & Impact
+### 🚀 Engineering Philosophy & Academic Roots
 
-- **Resilience First:** I design high-availability backend infrastructures capable of handling heavy transactional volume without breaking a sweat.
+- **Distributed Systems & Security:** Deep-rooted foundations built during my specialization tracks at Chalmers. Experienced in designing resilient, fault-tolerant nodes and mitigating network vulnerabilities.
+- **Resilience First:** I design high-availability backend infrastructures capable of handling heavy transactional volume smoothly.
 - **Data-Driven Leadership:** I combine engineering principles with industrial management frameworks to optimize developer velocity and product delivery.
-- **Security-Minded:** Deeply focused on infrastructure protection, encryption, and secure system patterns across all layers of the stack.
+
+---
+
+### 🏆 Activities & Core Interests
+
+- **Capture The Flag (CTF):** Active alumnus/supporter of **ChalmersCTF**, diving deep into cybersecurity challenges, reverse engineering, and network exploit mitigations.
 
 ---
 
