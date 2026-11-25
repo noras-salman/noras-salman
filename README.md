@@ -1,62 +1,49 @@
-# Hi there, I'm Noras! 👋 🚀
+# Noräs Salman
 
-`Principal Software Engineer` | `Tech Director` | `Distributed Systems Architect`
+**Principal Software Engineer** at [BuildVision](https://www.buildvision.io) · Bogotá, Colombia · originally from Sweden
 
-I am a seasoned tech leader specializing in crafting **high-availability backend systems** optimized for peak performance, multi-tier data security, and long-term scalability. Working in the industry since 2012, I bridge the gap between deep technical engineering and cross-functional team leadership to scale high-impact digital products.
+I design high-availability systems and lead the teams that build them. I've been in the industry since 2011, working in fintech, SaaS, consulting and construction tech with teams in Sweden, the US, the UAE and Panama. Today I'm the founding engineer behind AI-driven procurement and equipment intelligence software for commercial construction.
 
-> *"I make systems sing!"* 🎧⚡
-
----
-
-### ⚡ Professional Blueprint
-
-- 💻 **Core Focus:** Architecting robust, fault-tolerant enterprise systems and event-driven microservices.
-- 📈 **Track Record:** Designing and scaling technical infrastructure through multi-million dollar venture rounds and hyper-growth phases.
-- 💼 **Leadership:** Engineering management, project planning, mentoring talent, and modernizing enterprise-grade codebases since 2012.
-- 🎓 **Education:** 
-  - M.Sc. in Computer Systems and Networks | **Chalmers University of Technology** (Distributed Systems & Security Tracks)
-  - M.Sc. in Industrial Economics & Management | **Blekinge Institute of Technology (BTH)**
+**[→ noras-salman.github.io](https://noras-salman.github.io)** · [LinkedIn](https://www.linkedin.com/in/norassalman/)
 
 ---
 
-### 🧰 Tech Stack & Architectural Expertise
+### Experience
 
-| Layer | Technologies & Frameworks |
+| When | Role | Company |
+| :--- | :--- | :--- |
+| 2023 – now | Principal Software Engineer (founding engineer) | BuildVision |
+| 2021 – 2023 | Tech Lead, teams of 6–12 engineers | Playvox (NICE) |
+| 2020 – 2022 | Technology Architecture Specialist | Lucky Financial |
+| 2019 – 2020 | Mobile Engineer Team Lead | Lucky Financial |
+| 2019 – 2023 | Co-Founder | Mecotiza.com |
+| 2007 – 2023 | Co-Founder | Nasable |
+
+### What I work on
+
+- **Applied AI:** LLM-powered product features, prompt engineering and machine learning, run with the same reliability standards as any other critical system.
+- **Distributed systems:** fault-tolerant, event-driven microservices built for heavy transaction volume.
+- **Security:** security is part of the architecture from the start, based on my studies in security and in CTF competitions.
+- **Leadership:** hiring, mentoring, project planning and modernizing large codebases.
+
+### Stack
+
+| Area | Technologies |
 | :--- | :--- |
-| **Preferred Stack** | **JavaScript, TypeScript** |
-| **Core & Backend** | Distributed Systems, System Design, Microservices, Node.js, Go, Python |
-| **Cybersecurity & Net** | Network Security, Cryptography, Vulnerability Assessment, Exploit Mitigation |
-| **Messaging & Async** | RabbitMQ, Event-Driven Architecture, Pub/Sub Pipelines, High-Throughput Queues |
-| **Domains & Verticals** | FinTech Pipelines, Supply Chain Logistics, B2B Enterprise SaaS, Automated Risk Engines |
-| **Cloud & Infrastructure** | AWS, Docker, Scalable Cloud Architectures, CI/CD Automated Pipelines |
+| Preferred | TypeScript, JavaScript, Node.js |
+| AI & ML | LLMs, prompt engineering, machine learning, structured extraction |
+| Backend | Go, Python, microservices, system design |
+| Data & messaging | MongoDB, RabbitMQ, Pub/Sub, event-driven architecture |
+| Cloud | AWS, Docker, CI/CD, cloud migration |
+| Web & mobile | Vue.js, React, Java, Kotlin, Objective-C |
+| Security | Network security, cryptography, intrusion detection |
 
----
+### Education
 
-### 🚀 Engineering Philosophy & Academic Roots
+- **M.Sc. Computer Systems and Networks**, Chalmers University of Technology (2015–2017). Distributed Systems and Security tracks; member of [ChalmersCTF](https://chalmersctf.se).
+- **M.Sc. Industrial Economics and Management (MBA)**, Blekinge Institute of Technology (2021–2023).
 
-- **Distributed Systems & Security:** Deep-rooted foundations built during my specialization tracks at Chalmers. Experienced in designing resilient, fault-tolerant nodes and mitigating network vulnerabilities.
-- **Resilience First:** I design high-availability backend infrastructures capable of handling heavy transactional volume smoothly.
-- **Data-Driven Leadership:** I combine engineering principles with industrial management frameworks to optimize developer velocity and product delivery.
+### Publications
 
----
-
-### 🏆 Activities & Core Interests
-
-- **Capture The Flag (CTF):** Active alumnus/supporter of **[ChalmersCTF](https://chalmersctf.se)** 🛡️ — diving deep into cybersecurity challenges, reverse engineering, and network security patterns.
-
----
-
-### 📊 GitHub Metrics & Insights
-
-<p align="left">
-  <img src="https://vercel.app" alt="Noras's GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
-
----
-
-### 📫 Connect with Me
-
-- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
-- 🐙 **GitHub Profile:** [@noras-salman](https://github.com)
-
+- [*Design and Implementation of an Intrusion Detection System (IDS) for In-Vehicle Networks*](https://odr.chalmers.se/handle/20.500.12380/251871). M.Sc. thesis, Chalmers, in collaboration with Volvo Cars, 2017.
+- [*Unleashing Profitability: The Labor–R&D Nexus in SaaS Tech Firms*](https://www.uppsatser.se/uppsats/239a42bb35/). MBA thesis, BTH, 2023.
