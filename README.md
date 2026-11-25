@@ -1,23 +1,12 @@
 # Noräs Salman
 
-**Principal Software Engineer** at [BuildVision](https://www.buildvision.io) · Bogotá, Colombia · originally from Sweden
+**Software engineer & systems architect** · Bogotá, Colombia · originally from Sweden
 
-I design high-availability systems and lead the teams that build them. I've been in the industry since 2011, working in fintech, SaaS, consulting and construction tech with teams in Sweden, the US, the UAE and Panama. Today I'm the founding engineer behind AI-driven procurement and equipment intelligence software for commercial construction.
+I design high-availability systems and lead the teams that build them. I've been in the industry since 2011, working in fintech, SaaS, consulting and construction tech with teams in Sweden, the US, the UAE and Panama.
 
-**[→ noras-salman.github.io](https://noras-salman.github.io)** · [LinkedIn](https://www.linkedin.com/in/norassalman/)
+**[→ noras-salman.github.io/noras-salman](https://noras-salman.github.io/noras-salman/)** · [LinkedIn](https://www.linkedin.com/in/norassalman/) for full experience
 
 ---
-
-### Experience
-
-| When | Role | Company |
-| :--- | :--- | :--- |
-| 2023 – now | Principal Software Engineer (founding engineer) | BuildVision |
-| 2021 – 2023 | Tech Lead, teams of 6–12 engineers | Playvox (NICE) |
-| 2020 – 2022 | Technology Architecture Specialist | Lucky Financial |
-| 2019 – 2020 | Mobile Engineer Team Lead | Lucky Financial |
-| 2019 – 2023 | Co-Founder | Mecotiza.com |
-| 2007 – 2023 | Co-Founder | Nasable |
 
 ### What I work on
 
